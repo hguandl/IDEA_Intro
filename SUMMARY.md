@@ -9,6 +9,6 @@
     * [Editor customization](chapter2/section2.md)
 * [Your First Try](chapter3/README.md)
     * [Create a project](chapter3/section1.md)
-    * [A "Hello world" program](chapter3/section2.md)
-    * [Run it!](chapter3/section3.md)
+    * [Get used to the workspace](chapter3/section2.md)
+    * [A "Hello world" program](chapter3/section3.md)
 
