@@ -2,7 +2,7 @@
 
 ## Write the code
 
-Write the following code **inside the class**. Note that they should be in the `{}` and care about the indent:
+Write the following code **inside the class**. Note that they should be in the `{}` and care about the indentation:
 
 ```java
 public static void main(String[] args) {
