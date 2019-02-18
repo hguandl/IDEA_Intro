@@ -2,7 +2,7 @@
 
 ## Write the code
 
-Write the following code in the **class**. Note that they should be in the `{}` and care about the indent:
+Write the following code **inside the class**. Note that they should be in the `{}` and care about the indent:
 
 ```java
 public static void main(String[] args) {
@@ -16,7 +16,7 @@ public static void main(String[] args) {
 
 Click on the green triangle next to the class declaration. Choose "Run 'Class.main()'".
 
-![image-20190218203638765](/Users/hguandl/Library/Application Support/typora-user-images/image-20190218203638765.png)
+![image-20190218203638765](https://ws1.sinaimg.cn/large/006tKfTcly1g0av04nc3uj30ix079t9e.jpg)
 
 After a while you can see the result at the bottom.
 
