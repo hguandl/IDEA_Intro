@@ -3,4 +3,5 @@
 
 # GitBook
 _book/**
+node_modules*
 
